@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction() {
+	funciones y demás
+}
+</script>
+</head>
+<body>
+
+lo que se ve en la pantalla
+
+<h2>
+<p>
+<button>
+...
+..
+.
+
+</body>
+</html> 

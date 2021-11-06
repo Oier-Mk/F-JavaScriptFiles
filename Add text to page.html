@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My First Web Page</h2>
+<p>My first paragraph.</p>
+
+<p>Never call document.write after the document has finished loading.
+It will overwrite the whole document.</p>
+
+<script>
+<!-- add text to the bottom of the page -->
+document.write(5 + 6);
+<!-- alert on the page -->
+window.alert(5 + 6);
+<!-- delete all document and rewrite the page -->
+<button onclick="document.write(5 + 6)">new window</button>
+</script>
+
+</body>
+</html> 
